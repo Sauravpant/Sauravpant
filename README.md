@@ -1,7 +1,8 @@
-## Hi 👋, I'm Saurav Pant
-[![](https://visitcount.itsvg.in/api?id=Sauravpant&icon=0&color=0)](https://visitcount.itsvg.in)
+##                                           Hi 👋, I'm Saurav Pant
+
+---[![](https://visitcount.itsvg.in/api?id=Sauravpant&icon=0&color=0)](https://visitcount.itsvg.in) 
  # 💫 About Me:
-🌱 I’m currently learning MERN stack<br>💬 Ask me about JavaScript, React JS<br>
+🌱 I’m currently learning MERN stack<br> <br><br>💬 Ask me about JavaScript, React JS<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_saurav_73) 
@@ -29,6 +30,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sauravpant&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sauravpant&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+
 
 
