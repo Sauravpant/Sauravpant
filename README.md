@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=Sauravpant&color=yellow)
 
 ## 🌟 **About Me:**
-🌱 I’m currently learning <strong>MERN Stack </strong> 
+🌱 I’m currently learning <strong>MERN Stack (MongoDB,Express.js,React.js,Node.js) </strong> 
 
 💬 Ask me about <strong>JavaScript, React JS </strong> 
 
