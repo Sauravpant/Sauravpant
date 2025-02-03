@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>Hi 👋, I'm Saurav Pant</h1>
+  <h1>Hi👋, I'm Saurav Pant</h1>
   <strong><h3>Programmer and Web Developer</h3></strong>
 </div>
 
-![](https://komarev.com/ghpvc/?username=Sauravpant&color=green)
+![](https://komarev.com/ghpvc/?username=Sauravpant&color=yellow)
 
 ## 🌟 **About Me:**
 🌱 I’m currently learning <strong>MERN Stack </strong> 
