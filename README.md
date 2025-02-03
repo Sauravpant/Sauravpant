@@ -3,7 +3,7 @@
   <strong><h3>Programmer and Web Developer</h3></strong>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=Sauravpant&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Sauravpant&color=green)
 
 ## 🌟 **About Me:**
 🌱 I’m currently learning <strong>MERN Stack </strong> 
