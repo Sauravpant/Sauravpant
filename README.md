@@ -18,7 +18,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="sauravpant7" height="50" width="50" style="margin-right: 10px;"/>
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sauravpant777@gmail.com" target="blank">
-    <img align="center" src="" alt="Gmail" height="50" width="50" style="margin-right: 10px;"/>
+    <img align="center" src="https://static.vecteezy.com/system/resources/previews/022/484/516/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="Gmail" height="50" width="50" style="margin-right: 10px;"/>
   </a>
   <a href="https://instagram.com/_saurav_73" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_saurav_73" height="50" width="50" style="margin-right: 10px;"/>
