@@ -10,7 +10,11 @@
 
 💬 Ask me about <strong>DSA, JavaScript, React JS</strong> 
 
-<strong> My Leetcode Profile: </strong> [![Leetcode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/u/saurav_7/)
+<strong> My Leetcode Profile: </strong>
+<a href="https://leetcode.com/u/saurav_7/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
+</a>
+
 
 ## 🌐 **Connect with me:**
 <p align="left">
