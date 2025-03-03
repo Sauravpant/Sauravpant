@@ -3,7 +3,7 @@
   <strong><h3>A Passionate Programmer and Web Developer</h3></strong>
 </div>
 
-![](https://komarev.com/ghpvc/?username=Sauravpant&color=yellow)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravpant&label=Profile%20views&color=0e75b6&style=flat" alt="sauravpant" /> </p>
 
 ## 🌟 **About Me:**
 🌱 I’m currently learning <strong>MERN Stack (MongoDB,Express.js,React.js,Node.js)</strong> 
@@ -18,13 +18,13 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="sauravpant7" height="50" width="50" style="margin-right: 10px;"/>
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sauravpant777@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Logo.svg" alt="Gmail" height="50" width="50" style="margin-right: 10px;"/>
+    <img align="center" src="" alt="Gmail" height="50" width="50" style="margin-right: 10px;"/>
   </a>
   <a href="https://instagram.com/_saurav_73" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Instagram_icon.png" alt="_saurav_73" height="50" width="50" style="margin-right: 10px;"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_saurav_73" height="50" width="50" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.leetcode.com/saurav_7" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_2021.svg" alt="saurav_7" height="50" width="50" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurav_7" height="50" width="50" />
   </a>
 </p>
 
