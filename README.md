@@ -79,10 +79,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="60" height="60" style="margin-right: 10px;"/> 
   </a>  
 </p>
-
-## 📊 **GitHub Stats:**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauravpant&show_icons=true&locale=en&layout=compact" alt="sauravpant" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravpant&show_icons=true&locale=en" alt="sauravpant" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravpant&" alt="sauravpant" /></p>
