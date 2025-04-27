@@ -15,7 +15,9 @@
   LeetCode
 </a>
 <strong>Website</strong>
-sauravpant.com.np
+<a href="www.sauravpant.com.np" target="_blank">
+  sauravpant.com.np
+</a>
 
 ## 🌐 **Connect with me:**
 <p align="left">
