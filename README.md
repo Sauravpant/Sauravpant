@@ -14,10 +14,6 @@
 <a href="https://leetcode.com/u/saurav_7/" target="_blank">
   LeetCode
 </a>
-<strong>Website</strong>
-<a href="www.sauravpant.com.np" target="_blank">
-  sauravpant.com.np
-</a>
 
 ## 🌐 **Connect with me:**
 <p align="left">
