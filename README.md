@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi👋, I'm Saurav Pant</h1>
-  <strong><h3>A Passionate Programmer and Web Developer</h3></strong>
+  <strong><h3>MERN Stack Developer</h3></strong>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravpant&label=Profile%20views&color=0e75b6&style=flat" alt="sauravpant" /> </p>
@@ -66,6 +66,12 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" style="margin-right: 10px;"/> 
   </a>  
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express.js" width="60" height="60" style="margin-right: 10px;"/> 
+  </a>  
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" alt="nodejs" width="60" height="60" style="margin-right: 10px;"/> 
+  </a>  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" style="margin-right: 10px;"/> 
   </a>  
@@ -75,7 +81,17 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="60" height="60" style="margin-right: 10px;"/> 
   </a>  
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://yt3.googleusercontent.com/XRzDTgEa9GybH_Uk21E9ri6_iYh-9gbyZzhiEBCnLjISgjTorjMiu7IwpChUMf2lLpEdX6ufDA=s900-c-k-c0x00ffffff-no-rj" alt="git" width="60" height="60" style="margin-right: 10px;"/> 
+  </a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="60" height="60" style="margin-right: 10px;"/> 
   </a>  
 </p>
+
+## 📊 **GitHub Stats:**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauravpant&show_icons=true&locale=en&layout=compact" alt="sauravpant" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravpant&show_icons=true&locale=en" alt="sauravpant" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravpant&" alt="sauravpant" /></p>
