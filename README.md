@@ -1,14 +1,14 @@
 <div align="center">
   <h1>Hi👋, I'm Saurav Pant</h1>
-  <strong><h3>MERN Stack Developer</h3></strong>
+  <strong><h3>A Full Stack Developer</h3></strong>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravpant&label=Profile%20views&color=0e75b6&style=flat" alt="sauravpant" /> </p>
 
 ## 🌟 **About Me:**
-🌱 I’m currently learning <strong>MERN Stack (MongoDB,Express.js,React.js,Node.js)</strong> 
+🌱 I’m currently exploring <strong>React Native</strong> 
 
-💬 Ask me about <strong>DSA, JavaScript, React JS</strong> 
+💬 Ask me about <strong>DSA,MERN,TypeScript</strong> 
 
 <strong> My Leetcode Profile: </strong>
 <a href="https://leetcode.com/u/saurav_7/" target="_blank">
