@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Saurav Pant</h1>
-  <h3>Full Stack Developer</h3>
+  <h2>Full Stack Developer | React Native Developer</h3>
 </div>
 
 <p align="center">
