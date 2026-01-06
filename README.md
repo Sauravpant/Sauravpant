@@ -47,6 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" style="margin:15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" style="margin:15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" style="margin:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" style="margin:15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" style="margin:15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" style="margin:15px;" />
 
@@ -60,6 +61,7 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" style="margin:15px;" />
   <img src="https://skillicons.dev/icons?i=express" height="50" style="margin:15px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" style="margin:15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" style="margin:15px;" />
   <img src="https://skillicons.dev/icons?i=supabase" height="50" style="margin:15px;" />
 
@@ -82,6 +84,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sauravpant&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sauravpant&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="170" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sauravpant&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 <img src="https://raw.githubusercontent.com/Sauravpant/Sauravpant/output/snake.svg" alt="Snake animation" />
