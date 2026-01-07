@@ -11,9 +11,9 @@
 
 ## 🌟 About Me
 
-- 🌱 Exploring **React Native** and building modern web & mobile apps
-- 💻 Specialized in **Full Stack Development** (MERN / PERN)
-- 🏗 Passionate about **System Design & Scalable Systems**
+- 🌱 Currently learning **AI/ML**, focusing on core concepts and practical implementation 
+- 💻 Specialized in **Full Stack Development** (MERN / PERN) with **React Native mobile development**
+- 🏗 Passionate about **System Design**, **Backend Architecture**, and **Scalable Systems**
 - 🚀 Continuously learning new technologies and improving development workflows
 - 🏆 Check my **LeetCode Profile**: [LeetCode](https://leetcode.com/u/saurav_7/)
 
@@ -41,41 +41,83 @@
 
 ---
 
-## 💻 Skills
+## 💻 Tech Stack
 
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+
+<td width="50%" valign="top">
+
+###  Programming Languages
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" style="margin:15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" style="margin:15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" style="margin:15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" style="margin:15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" style="margin:15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" style="margin:15px;" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" style="margin:15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" style="margin:15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" style="margin:15px;" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" style="margin:15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" style="margin:15px;" title="React"/>
-  <img src="https://binarybeans.com/images/services-details/stack/react-native-logo.png" height="50" style="margin:15px;" title="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" style="margin:15px;" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" style="margin:15px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" style="margin:15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="50" style="margin:15px;" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" style="margin:15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" style="margin:15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="50" style="margin:15px;" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" style="margin:15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" style="margin:15px;" />
-  <img src="https://yt3.googleusercontent.com/XRzDTgEa9GybH_Uk21E9ri6_iYh-9gbyZzhiEBCnLjISgjTorjMiu7IwpChUMf2lLpEdX6ufDA=s900-c-k-c0x00ffffff-no-rj" height="50" style="margin:15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" style="margin:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/>
 </div>
+
+<br/>
+
+###  Frontend Development
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"  height="50"/>
+</div>
+
+<br/>
+
+###  Mobile Development
+<div align="left">
+  <img src="https://binarybeans.com/images/services-details/stack/react-native-logo.png" height="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-line.svg" height="50" />
+          
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+###  Backend & APIs
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
+  <img src="https://skillicons.dev/icons?i=express" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50"/>
+  <img src="https://skillicons.dev/icons?i=supabase" height="50"/>
+</div>
+
+<br/>
+
+###  Databases & ORM
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+  <img src="https://skillicons.dev/icons?i=prisma" height="50"/>
+</div>
+
+<br/>
+
+###  Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50"/>
+  <img src="https://yt3.googleusercontent.com/XRzDTgEa9GybH_Uk21E9ri6_iYh-9gbyZzhiEBCnLjISgjTorjMiu7IwpChUMf2lLpEdX6ufDA=s900-c-k-c0x00ffffff-no-rj" height="50"/>
+</div>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
