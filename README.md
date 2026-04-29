@@ -21,23 +21,23 @@
 
 ## 🌐 Connect with Me
 
-<div align="left">
-  <a href="https://leetcode.com/u/saurav_7/" target="_blank" style="margin:20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" width="40" />
+<p align="center">
+  <a href="https://leetcode.com/u/saurav_7/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" />
   </a>
-  <a href="https://linkedin.com/in/sauravpant7" target="_blank" style="margin:20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="40" width="40" />
+  <a href="https://linkedin.com/in/sauravpant7" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="40" />
   </a>
-  <a href="mailto:sauravpant777@gmail.com" target="_blank" style="margin:20px;">
-    <img src="https://static.vecteezy.com/system/resources/previews/022/484/516/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" height="40" width="40" />
+  <a href="mailto:sauravpant777@gmail.com" target="_blank">
+    <img src="https://static.vecteezy.com/system/resources/previews/022/484/516/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" height="40" />
   </a>
-  <a href="https://instagram.com/_saurav_73" target="_blank" style="margin:20px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />
+  <a href="https://instagram.com/_saurav_73" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" />
   </a>
-  <a href="https://discord.com/users/843775011601121291" target="_blank" style="margin:20px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="40" width="40" />
+  <a href="https://discord.com/users/843775011601121291" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="40" />
   </a>
-</div>
+</p>
 
 ---
 
