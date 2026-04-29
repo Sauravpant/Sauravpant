@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Saurav Pant</h1>
-  <h2>Full Stack Developer | React Native Developer</h3>
+  <h2>Full Stack Developer | Scalable Web & Cross-Platform Applications</h3>
 </div>
 
 <p align="center">
@@ -19,33 +19,12 @@
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://leetcode.com/u/saurav_7/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" />
-  </a>
-  <a href="https://linkedin.com/in/sauravpant7" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="40" />
-  </a>
-  <a href="mailto:sauravpant777@gmail.com" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/022/484/516/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" height="40" />
-  </a>
-  <a href="https://instagram.com/_saurav_73" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" />
-  </a>
-  <a href="https://discord.com/users/843775011601121291" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="40" />
-  </a>
-</p>
-
----
-
 ## 💻 Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" style="margin:15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" style="margin:15px;" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50" style="margin:15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" style="margin:15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" style="margin:15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" style="margin:15px;" />
