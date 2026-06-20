@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Saurav Pant</h1>
-  <h2>Full Stack Developer | Scalable Web & Cross-Platform Applications</h3>
+  <h3>Software Developer | Backend & Full Stack Systems | System Design | AI/ML</h3>
 </div>
 
 <p align="center">
@@ -11,11 +11,11 @@
 
 ## 🌟 About Me
 
-- 🌱 Currently learning **AI/ML**, focusing on core concepts and practical implementation 
-- 💻 Specialized in **Full Stack Development** (MERN / PERN) with **React Native mobile development**
-- 🏗 Passionate about **System Design**, **Backend Architecture**, and **Scalable Systems**
-- 🚀 Continuously learning new technologies and improving development workflows
-- 🏆 Check my **LeetCode Profile**: [LeetCode](https://leetcode.com/u/saurav_7/)
+-  Software Developer focused on building scalable backend systems and full-stack applications  
+-  Experience in **Node.js (MERN/PERN)** and currently learning **Spring Boot** and **ASP.NET Core**  
+-  Strong interest in **System Design, Backend Architecture and Scalable Systems**  
+-  Exploring **AI/ML** and integrating intelligent features into applications
+-  Check my **LeetCode Profile**: [LeetCode](https://leetcode.com/u/saurav_7/)
 
 ---
 
