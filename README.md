@@ -23,7 +23,7 @@
   <br/>
   <li>🌱 <strong>Current Trajectory:</strong> Deepening expertise in <strong>Microservices</strong> architecture using <strong>Spring Boot</strong>, with strong, hands-on experience across the <strong>MERN/PERN</strong> stacks.</li>
   <br/>
-  <li>🤖 <strong>AI & Machine Learning:</strong> Actively expanding into the AI ecosystem, with a focused shift toward <strong>Generative AI</strong> and the design of production-oriented <strong>Agentic AI</strong> systems.</li>
+  <li>🤖 <strong>AI & Machine Learning:</strong> Actively expanding into the AI ecosystem, with a focused shift toward <strong>Generative AI</strong> and <strong>Agentic AI.</strong></li>
   <br/>
   <li>🏗️ <strong>Core Interests:</strong> System Design, Distributed Systems, Microservices, and Database Architecture with an emphasis on building systems that scale reliably and remain maintainable.</li>
 </ul>
