@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 
 <ul style="list-style-type: none; padding-left: 10px;">
-  <li>🎯 <strong>Focus:</strong> Architecting and building complete, scalable end-to-end applications from database design and backend architecture to intuitive user-facing interfaces.</li>
+  <li>🎯 <strong>Focus:</strong> Building complete, scalable end-to-end applications from database design and backend architecture to intuitive user-facing interfaces.</li>
   <br/>
   <li>🌱 <strong>Current Trajectory:</strong> Deepening expertise in <strong>Microservices</strong> architecture using <strong>Spring Boot</strong>, with strong, hands-on experience across the <strong>MERN/PERN</strong> stacks.</li>
   <br/>
