@@ -96,10 +96,10 @@
   <table border="0" style="border-collapse: collapse; background: transparent;">
     <tr>
       <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sauravpant&show_icons=true&theme=radical&hide_border=true&border_radius=8&title_color=6C3EF4&icon_color=6C3EF4" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sauravpant&show_icons=true&theme=radical&hide_border=true&border_radius=8&title_color=6C3EF4&icon_color=6C3EF4" height="165" alt="GitHub Stats" />
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sauravpant&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&border_radius=8&title_color=6C3EF4" height="165" alt="Top Languages" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Sauravpant&locale=en&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&border_radius=8&title_color=6C3EF4" height="165" alt="Top Languages" />
       </td>
     </tr>
   </table>
