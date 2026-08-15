@@ -80,7 +80,7 @@
       <td align="center" colspan="2">
         <h3>Tools, Cloud & Platforms</h3>
         <br/>
-        <img src="https://skillicons.dev/icons?i=git,github,docker,androidstudio,postman,vscode,firebase,supabase" alt="Tools" />
+        <img src="https://skillicons.dev/icons?i=git,github,docker,grafana,androidstudio,postman,prometheus,firebase,supabase" alt="Tools" />
       </td>
     </tr>
   </table>
